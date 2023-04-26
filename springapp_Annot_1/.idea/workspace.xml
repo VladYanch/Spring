@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="634f3caf-73b1-42b6-b00e-c6c95b14e1f2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ClassicalMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/TestSpring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springapp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springapp1/src/main/java/org/example/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/src/main/java/org/example/ClassicalMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springapp1/src/main/java/org/example/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/src/main/java/org/example/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springapp1/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springapp1/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springapp1/target/classes/org/example/ClassicalMusic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/target/classes/org/example/ClassicalMusic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springapp1/target/classes/org/example/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/target/classes/org/example/TestSpring.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +45,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/admin/Documents/JAVA/Spring_app/springapp_Annot_1",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "e45d51b321a7943b121a2b7c155d54a0"
   }
@@ -54,8 +62,10 @@
   </component>
   <component name="RunManager">
     <configuration name="TestSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="org.example.TestSpring" />
-      <module name="springapp1" />
+      <module name="springapp_Annot_1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -82,6 +92,7 @@
       <updated>1682346316495</updated>
       <workItem from="1682346321621" duration="2974000" />
       <workItem from="1682360531014" duration="8750000" />
+      <workItem from="1682449598870" duration="2054000" />
     </task>
     <servers />
   </component>
