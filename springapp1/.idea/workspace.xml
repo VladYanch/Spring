@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="634f3caf-73b1-42b6-b00e-c6c95b14e1f2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ClassicalMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/TestSpring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springapp_Annot_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp_Annot_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springapp_Annot_Autowired/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp_Annot_Autowired/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springapp_Annot_Qualified/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp_Annot_Qualified/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +40,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/admin/Documents/JAVA/Spring_app/springapp1",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "e45d51b321a7943b121a2b7c155d54a0"
+    "spring.configuration.checksum": "afd48195cb5a0fad5bee7c7c30b22bf7"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -82,6 +80,7 @@
       <updated>1682346316495</updated>
       <workItem from="1682346321621" duration="2974000" />
       <workItem from="1682360531014" duration="8750000" />
+      <workItem from="1683039348162" duration="168000" />
     </task>
     <servers />
   </component>

@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="634f3caf-73b1-42b6-b00e-c6c95b14e1f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../springapp_Annot_1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springapp_Annot_1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springapp_Annot_1/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springapp_Annot_1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springapp_Annot_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springapp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springapp1/src/main/java/org/example/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/src/main/java/org/example/ClassicalMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springapp1/src/main/java/org/example/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/src/main/java/org/example/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springapp1/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springapp1/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springapp1/target/classes/org/example/ClassicalMusic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/target/classes/org/example/ClassicalMusic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springapp1/target/classes/org/example/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp1/target/classes/org/example/TestSpring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springapp_Annot_Qualified/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springapp_Annot_Qualified/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +41,7 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/admin/Documents/JAVA/Spring_app/springapp_Annot_Autowired",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "e45d51b321a7943b121a2b7c155d54a0"
+    "spring.configuration.checksum": "a32e05e7dd2933d3b776d088cad29fc1"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -95,6 +83,7 @@
       <workItem from="1682360531014" duration="8750000" />
       <workItem from="1682449598870" duration="2054000" />
       <workItem from="1682509099762" duration="3627000" />
+      <workItem from="1683039056838" duration="66000" />
     </task>
     <servers />
   </component>
