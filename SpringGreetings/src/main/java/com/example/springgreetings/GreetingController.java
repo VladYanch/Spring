@@ -33,7 +33,7 @@ public class GreetingController {
 
     @GetMapping("first/goodbye.html")
     public String goodByePageHTML(@RequestParam(value = "name", required = false) String name,
-                              Model model) {
+                                  Model model) {
         model.addAttribute("message", "Goodbye, " + name + "!");
         return "first/goodbye";
     }

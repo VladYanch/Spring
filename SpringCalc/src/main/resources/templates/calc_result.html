@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>First Web Calc</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<h1>Result</h1>
+<!--<p th:text="'Result: ' + ${calculate.getA()*calculate.getB()}" />-->
+<p th:text="'A: ' + ${calculate.a}" />
+<p th:text="'Operation: ' + ${calculate.operation}" />
+<p th:text="'B: ' + ${calculate.b}" />
+<p th:text="'Result: ' + ${calculate.result}" />
+<a href="/calc">Submit another message</a>
+</body>
+</html>
