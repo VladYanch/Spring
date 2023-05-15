@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 public class MyController {
 
+    // TODO не работает валидация jakarta надо добавить hybernate
     @GetMapping("/{id}")
     public String getString(@PathVariable("id") @IdValidation String id) {
         return "HELLO " + id;
