@@ -12,17 +12,17 @@ public class Calculate {
     private int result;
     private String operation;
 
-    @Value(value = "2")
+//    @Value(value = "2")
     public void setA(int a) {
         this.a = a;
     }
 
-    @Value(value = "3")
+//    @Value(value = "3")
     public void setB(int b) {
         this.b = b;
     }
 
-    @Value(value = "aa")
+//    @Value(value = "aa")
     public void setOperation(String operation) {
         this.operation = operation;
     }
